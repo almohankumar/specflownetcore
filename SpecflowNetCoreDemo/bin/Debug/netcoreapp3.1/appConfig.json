@@ -1,0 +1,11 @@
+﻿{
+	"testConfig":{
+
+	"environment": "staging",
+	"aut": "https://www.google.com",
+	"testType": "SmokeTest",
+	"driverPath": "D:\\Programming\\vsWorkspace",
+	"browserMode":"Headed"	
+
+	}
+}

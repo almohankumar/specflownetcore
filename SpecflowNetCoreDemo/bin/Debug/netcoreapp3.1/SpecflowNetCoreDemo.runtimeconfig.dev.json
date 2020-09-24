@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\envel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\envel\\.nuget\\packages"
+    ]
+  }
+}

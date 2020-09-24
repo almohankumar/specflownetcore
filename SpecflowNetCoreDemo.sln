@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecflowNetCoreDemo", "SpecflowNetCoreDemo\SpecflowNetCoreDemo.csproj", "{5F5DD082-2103-48B3-BAA4-D2FA50957707}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA313F83-E9C9-4121-A192-77C8CD7ED850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5DD082-2103-48B3-BAA4-D2FA50957707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5DD082-2103-48B3-BAA4-D2FA50957707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5DD082-2103-48B3-BAA4-D2FA50957707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5DD082-2103-48B3-BAA4-D2FA50957707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CBCD58B-AD08-4351-B622-3CDA5BB576CF}
+	EndGlobalSection
+EndGlobal
